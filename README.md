@@ -1,4 +1,4 @@
-# [Robofriends](peacebefore.github.io/robofriends/)
+# [Robofriends](https://peacebefore.github.io/robofriends/)
 
 This is my first project in Zero to Mastery Academy's Complete React Developer course, where I create a searchable rolodex of robots. 
 
