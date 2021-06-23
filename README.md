@@ -6,5 +6,6 @@ This is my first project in Zero to Mastery Academy's Complete React Developer c
 * React Fundamentals
 * Manage state
 * Pull data from external source
+* HTML & CSS for website design
 
 ![robofriends](https://user-images.githubusercontent.com/42794888/122654052-9597f800-d0fd-11eb-968b-020e8fa62a93.png)
